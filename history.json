@@ -1,0 +1,52 @@
+[
+  {
+    "nama": "Budi",
+    "level": "Mudah",
+    "skor": 10
+  },
+  {
+    "nama": "Ani",
+    "level": "Sedang",
+    "skor": 9
+  },
+  {
+    "nama": "Dina",
+    "level": "Sulit",
+    "skor": 10
+  },
+  {
+    "nama": "Rudi",
+    "level": "Mudah",
+    "skor": 8
+  },
+  {
+    "nama": "Sari",
+    "level": "Sedang",
+    "skor": 6
+  },
+  {
+    "nama": "Eka",
+    "level": "Sulit",
+    "skor": 7
+  },
+  {
+    "nama": "Tono",
+    "level": "Mudah",
+    "skor": 3
+  },
+  {
+    "nama": "Wati",
+    "level": "Sedang",
+    "skor": 10
+  },
+  {
+    "nama": "Yuda",
+    "level": "Sulit",
+    "skor": 9
+  },
+  {
+    "nama": "Mira",
+    "level": "Mudah",
+    "skor": 9
+  }
+]
